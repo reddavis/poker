@@ -1,5 +1,5 @@
 require 'card'
-Dir['lib/hand_types/*.rb'].each {|path| require path}
+Dir['hand_types/*.rb'].each {|path| require path}
 
 class Poker
     
@@ -54,9 +54,3 @@ class Poker
   end
     
 end
-
-
-
-
-
-
