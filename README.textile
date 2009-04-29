@@ -1,0 +1,33 @@
+h1. Poker Hands
+
+This is a problem that we tried to solve at Coding Dojo London:http://groups.google.com.br/group/coding-dojo-london
+
+The problem:http://acm.uva.es/p/v103/10315.html
+
+h2. Install
+
+<pre>
+  <code>
+    gem sources -a http://gems.github.com
+    
+    sudo gem install reddavis-poker
+  </code>
+</pre>
+
+h2. To Use
+
+<pre>
+  <code>
+    require 'rubygems'
+    require 'reddavis-poker'
+    
+    a = Poker.new('3D 4D 5D 6D 7D 4D 4C 4S KS AH')
+    
+    a.who_wins?
+      #=> Black wins
+  </code>
+</pre>
+
+== Copyright
+
+Copyright (c) 2009 Red Davis. See LICENSE for details.

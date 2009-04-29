@@ -1,7 +1,0 @@
-= poker
-
-Description goes here.
-
-== Copyright
-
-Copyright (c) 2009 Red Davis. See LICENSE for details.
