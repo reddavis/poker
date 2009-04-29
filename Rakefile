@@ -5,9 +5,10 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "poker"
-    gem.summary = %Q{TODO}
+    gem.summary = %Q{A gem to solve this problem - http://acm.uva.es/p/v103/10315.html}
+    gem.description = %Q{A gem to solve this problem - http://acm.uva.es/p/v103/10315.html}
     gem.email = "reddavis@gmail.com"
-    gem.homepage = "http://github.com/reddavis/poker"
+    gem.homepage = "http://github.com/reddavis/Poker"
     gem.authors = ["Red Davis"]
 
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings

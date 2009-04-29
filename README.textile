@@ -28,6 +28,6 @@ h2. To Use
   </code>
 </pre>
 
-== Copyright
+h2. Copyright
 
 Copyright (c) 2009 Red Davis. See LICENSE for details.
